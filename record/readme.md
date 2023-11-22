@@ -22,7 +22,7 @@ This project is an API for managing user data. It provides endpoints for creatin
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/user-management-api.git
+   git clone https://github.com/karlolb13/user-record.git
 
 2. Run the script:
 
