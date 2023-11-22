@@ -1,0 +1,12 @@
+﻿record/data/.mvn
+record/data/mvnw
+record/data/mvnw.cmd
+record/domain/.mvn
+record/domain/mvnw
+record/domain/mvnw.cmd
+record/mail/.mvn/wrapper
+record/mail/mvnw
+record/mail/mvnw.cmd
+record/web/.mvn
+record/web/mvnw
+record/web/mvnw.cmd
