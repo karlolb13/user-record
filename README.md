@@ -26,8 +26,8 @@ This project is an API for managing user data. It provides endpoints for creatin
 
 2. Run the script:
 
-For windows: start.bat
-For linus: start.sh
+For windows: /record/start.bat
+For linus: /record/start.sh
 
 Note: Assuming the docker desktop is already installed
 
